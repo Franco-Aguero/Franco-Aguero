@@ -13,7 +13,7 @@ Bienvenidos a mi GitHub✨
     
        { PokeApp : ['React', 'Redux', 'CSS Module', 'Sequalize', 'NodeJs' , 'PostgreSQL' ] },
        
-       { Wall-et: ['React' , 'Redux' , 'Sequalize' , 'NodeJs', 'PostgreSQL'] }
+       { Wall_et: ['React', 'Redux', 'Sequalize', 'NodeJs', 'PostgreSQL'] }
      ]
  
  }
