@@ -1,0 +1,84 @@
+:root{
+    --text-color: white;
+    --bg-page: black;
+    --bg-nav: rgba(212, 33, 153, 0.781);
+    --size-2: 1.25rem;
+}
+
+body{
+    margin: 0;
+}
+    
+.Nav{
+   /*  background-color: var(--bg-nav);
+    display: grid;
+    grid-template-columns: 3rem auto;
+    grid-template-rows: 2.8rem;
+    justify-content: space-between;
+    align-items: center;
+ */
+    background-color: var(--bg-nav);
+    display: grid;
+    width: 100%;
+    grid-template-columns: 3rem auto;
+    grid-template-rows: 2.8rem;
+    justify-content: space-between;
+    align-items: center;
+    /* position: fixed; */
+    z-index: 10001;
+    top: 0;
+    left: 0;
+
+}
+
+#Menu{
+    background-color: #69cbcb;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* estaba probando el stcky en la barra, para ver como quedaria */
+.Presentacion{
+    /* height: 100vh;     */
+    background-color: rgb(87, 87, 97);
+    height: calc(100vh - 2.8rem);/*  esto es asi por que no esta el nav en fixed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--size-2);
+}
+.Presentacion__Texto{
+    padding: 0 18px 10px;
+    text-align: center;
+}
+#ImgProfile{
+    width: 12rem;
+    height: 12rem;
+    border-radius: 999px;
+}
+
+/*                     RESPONSIVE                         */
+
+@media (min-width: 768px) {
+    :root{
+        --size-2: 1.5rem;
+    }
+    .Presentacion{
+        background-color: rgb(166, 166, 194);
+        flex-direction: row;
+        padding: 0 16px;
+    }
+    
+    .Presentacion__Texto{
+        padding: 0 18px 0 0;
+        text-align: center;
+    }
+    #ImgProfile{
+        width: 14rem;
+        height: 14rem;
+        border-radius: 999px;
+    }
+}
