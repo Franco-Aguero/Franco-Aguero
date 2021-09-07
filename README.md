@@ -33,6 +33,13 @@
 # Contacto
 <br/>
 <a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank"> 
-   <img style="widht:3rem; height: 3rem" src="https://cdn.icon-icons.com/icons2/832/PNG/512/linked_icon-icons.com_66685.png" />
+   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/145/145807.png" />
 </a>
-
+  
+<a href="https://mail.google.com/a/?view=cm&fs=1&to=aguerofranco2002@gmail.com" target="_blank"> 
+   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
+</a>
+  
+<a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank"> 
+   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/733/733585.png" />
+</a>
