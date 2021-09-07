@@ -33,9 +33,6 @@
 # Contacto
 <br/>
 <a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank"> 
-   <img widht:1rem src="https://cdn.icon-icons.com/icons2/832/PNG/512/linked_icon-icons.com_66685.png" />
+   <img style="widht:3rem; height: 3rem" src="https://cdn.icon-icons.com/icons2/832/PNG/512/linked_icon-icons.com_66685.png" />
 </a>
-[![Gmail](https://cdn-icons-png.flaticon.com/128/281/281769.png)](https://mail.google.com/mail/u/0/?fs=1&to=juarezgonzalo000@gmail.com&tf=cm)
-40
-[![Wsp](https://cdn-icons-png.flaticon.com/128/220/220236.png)](https://api.whatsapp.com/send?phone=1130449589)
 
