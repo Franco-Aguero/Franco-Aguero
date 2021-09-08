@@ -32,14 +32,14 @@
   
 # Contacto
 <br/>
-<a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank"> 
-   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin"/>
+<a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank" style="marginRight:2rem"> 
+   <img style="widht:3rem; height: 3rem; margin-right:3rem" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin"/>
 </a>
   
 <a href="https://mail.google.com/a/?view=cm&fs=1&to=aguerofranco2002@gmail.com" target="_blank"> 
    <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" />
 </a>
   
-<a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank"> 
+<a href="https://wa.link/9x1can" target="_blank"> 
    <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="Whatsapp"/>
 </a>
