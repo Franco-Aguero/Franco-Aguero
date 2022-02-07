@@ -5,7 +5,7 @@
 ### Sobre mi✨
 
   <p> 
-  Me llamo Franco y tengo 19 años, soy de Hurlingham, Buenos Aires, Argentina. <br/>
+  Me llamo Franco y tengo 20 años, soy de Hurlingham, Buenos Aires, Argentina. <br/>
   En mis tiempos libres me gusta compartir tiempo con mi familia y amigos😄. <br/> 
   Otra actividad que disfruto mucho tambien es hacer deporte 🏉⚽🎾.
   </p>
