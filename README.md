@@ -17,15 +17,15 @@ Además, cuento con experiencia en:
 - 🧩 Backend con **NestJS & Node.js**
 - 📱 Desarrollo mobile con **React Native**
 
-Lo que me permite aportar una **visión integral del producto**.
+Lo que me permite aportar una visión integral y orientada a producto.
 
 ---
 
 ## 💡 Qué aporto
 
-- Experiencia real en producción (web & mobile)
+- Experiencia en aplicaciones productivas de alto impacto
 - Mentalidad orientada a arquitectura y mantenibilidad
-- Capacidad para moverme entre frontend, backend y mobile
+- Capacidad para colaborar transversalmente entre frontend, backend y mobile
 - Enfoque en performance, escalabilidad y calidad de código
 
 ---
@@ -51,6 +51,7 @@ Lo que me permite aportar una **visión integral del producto**.
 ## 📫 Contacto
 
 📍 Argentina (Remoto)  
-🔗 [LinkedIn](https://www.linkedin.com/)  
-💻 [GitHub](https://github.com/)  
+🔗 <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
+🌐 <a href="https://franco-aguero.vercel.app" target="_blank" rel="noopener noreferrer">Portafolio</a><br>
+💻 <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a><br>
 ✉️ franco.aguero.md@gmail.com
