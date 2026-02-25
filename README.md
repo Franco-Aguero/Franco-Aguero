@@ -1,45 +1,56 @@
-### Franco Nahuel Agüero
+# 🚀 Franco Nahuel Agüero
 
-### Desarrollador Full-Stack 🚀 🚀<h2>
-  
-### Sobre mi✨
+### React & TypeScript Developer
 
-  <p> 
-  Me llamo Franco y tengo 20 años, soy de Hurlingham, Buenos Aires, Argentina. <br/>
-  En mis tiempos libres me gusta compartir tiempo con mi familia y amigos😄. <br/> 
-  Otra actividad que disfruto mucho tambien es hacer deporte 🏉⚽🎾.
-  </p>
-  
-  
-```javascript
-  const Franco = {
-    FrontEnd: ['ReactJs', 'Redux', 'CSS Modules'],
-    
-    BackEnd:  ['Express', 'NodeJs', 'Sequalize', 'PostgreSQL'],
-    
-    Soft_Skills: ['Autodidacta', 'Creativo', 'Trabajo en equipo', 'Paciente'],
-    
-    Projects: [
-    
-       { PokeApp : ['React', 'Redux', 'CSS Module', 'Sequalize', 'NodeJs' , 'PostgreSQL' ] },
-       
-       { Wall_et: ['React', 'Redux', 'Sequalize', 'NodeJs', 'PostgreSQL'] }
-     ]
- 
- }
+---
 
-```
-  
-# Contacto
-<br/>
-<a href="https://www.linkedin.com/in/franco-agüero-13706b212" target="_blank" style="marginRight:2rem"> 
-   <img style="widht:3rem; height: 3rem; margin-right:3rem" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin"/>
-</a>
-  
-<a href="https://mail.google.com/a/?view=cm&fs=1&to=aguerofranco2002@gmail.com" target="_blank"> 
-   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" />
-</a>
-  
-<a href="https://wa.link/9x1can" target="_blank"> 
-   <img style="widht:3rem; height: 3rem" src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="Whatsapp"/>
-</a>
+Frontend Developer con **+3 años de experiencia** construyendo aplicaciones web y mobile en entornos productivos internacionales.
+
+Especializado en **React + TypeScript**, con experiencia en:
+
+- Migraciones tecnológicas
+- Optimización de performance
+- Desarrollo de productos escalables
+
+Además, cuento con experiencia en:
+
+- 🧩 Backend con **NestJS & Node.js**
+- 📱 Desarrollo mobile con **React Native**
+
+Lo que me permite aportar una **visión integral del producto**.
+
+---
+
+## 💡 Qué aporto
+
+- Experiencia real en producción (web & mobile)
+- Mentalidad orientada a arquitectura y mantenibilidad
+- Capacidad para moverme entre frontend, backend y mobile
+- Enfoque en performance, escalabilidad y calidad de código
+
+---
+
+## ⚙️ Stack principal
+
+**Frontend:** React · TypeScript · Redux · MUI · Tailwind  
+**Mobile:** React Native  
+**Backend:** NestJS · Node.js  
+**Base de datos:** PostgreSQL  
+**Cloud:** AWS  
+
+---
+
+## 🧠 Filosofía
+
+> Construir soluciones que escalen.  
+> Escribir código que perdure.  
+> Crear productos que generen impacto.
+
+---
+
+## 📫 Contacto
+
+📍 Argentina (Remoto)  
+🔗 [LinkedIn](https://www.linkedin.com/)  
+💻 [GitHub](https://github.com/)  
+✉️ franco.aguero.md@gmail.com
